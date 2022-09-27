@@ -1,0 +1,40 @@
+.heading
+{
+    background-color: darkcyan;
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px whitesmoke;
+}
+.heading_div
+{
+    float:none;
+    background:rgb(194, 38, 38);
+    padding: 10px;
+    border-radius: 20px;
+    color:mistyrose;
+    box-shadow: 5px,5px,5px grey;
+}
+.member_div
+{
+    float:none;
+    background:midnightblue;
+    padding: 10px;
+    border-radius: 20px;
+    color:white;
+    box-shadow: 5px,5px,5px burlywood;
+}
+.accuracy_div
+{
+    float:none;
+    background:midnightblue;
+    padding: 10px;
+    border-radius: 20px;
+    color:white;
+    box-shadow: 5px,5px,5px burlywood;
+}
+#webcamlabel
+{
+    font-family: cursive;
+    color: plum;
+}
